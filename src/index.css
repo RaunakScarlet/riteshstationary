@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "serif", Times;
+}
+
+.animate-marquee {
+  animation: marquee 10s linear infinite;
+  /* Adjust duration and timing function as needed */
+  white-space: nowrap;
+  /* Prevent text from wrapping */
+}
