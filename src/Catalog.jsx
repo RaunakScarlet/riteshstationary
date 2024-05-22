@@ -12,6 +12,13 @@ const Catalog = () => {
             <h1 className="text-6xl md:text-7xl font-bold mb-5 text-gray-600">
                 Catalog
             </h1>
+            <div className="text-center mb-10">
+                <span className="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                <span className="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                <span className="inline-block w-40 h-1 rounded-full bg-indigo-500"></span>
+                <span className="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                <span className="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
+            </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:gap-24 gap-6 my-10">
                 <div className="flex flex-col items-center">
