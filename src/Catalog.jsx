@@ -17,9 +17,9 @@ const Catalog = () => {
                 <div className="flex flex-col items-center">
                     <img className="mb-4 w-48 h-64" src={cls2} alt="coffee" />
                     <p className="font-bold text-md text-xl">Classmate</p>
-                    <h4 className="font-bold text-md">220 pages</h4>
+                    <h4 className="font-bold text-md">80 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️⭐️⭐️</p>
-                    <p className="font-bold text-md">Rs. 55.00</p>
+                    <p className="font-bold text-md">Rs. 10.00</p>
                 </div>
                 <div className="flex flex-col items-center">
                     <img
@@ -28,19 +28,19 @@ const Catalog = () => {
                         alt="sanetizer"
                     />
                     <p className="font-bold text-md text-xl">SchoolMate</p>
-                    <h4 className="font-bold text-md"> 210 pages</h4>
+                    <h4 className="font-bold text-md"> 96 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️⭐️⭐️</p>
-                    <p className="font-bold text-md">Rs. 45.00</p>
+                    <p className="font-bold text-md">Rs. 20.00</p>
                 </div>
 
                 <div className="flex flex-col items-center">
                     <img className="mb-4 w-48 h-64" src={neelkamak} alt="oil" />
                     <p className="font-bold text-md text-xl">NeelKamal</p>
-                    <h4 className="font-bold text-md">400 pages</h4>
+                    <h4 className="font-bold text-md">232 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️⭐️</p>
                     <div>
-                        <span className="line-through text-md">Rs. 60.00</span>{" "}
-                        <span className="font-bold text-md">Rs. 58.00</span>
+                        <span className="line-through text-md">Rs. 35.00</span>{" "}
+                        <span className="font-bold text-md">Rs. 30.00</span>
                     </div>
                 </div>
                 <div className="flex flex-col items-center">
@@ -50,9 +50,9 @@ const Catalog = () => {
                         alt="coffee"
                     />
                     <p className="font-bold text-md text-xl">MyNotes</p>
-                    <h4 className="font-bold text-md">220 pages</h4>
+                    <h4 className="font-bold text-md">292 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️⭐️</p>
-                    <p className="font-bold text-md">Rs. 55.00</p>
+                    <p className="font-bold text-md">Rs. 40.00</p>
                 </div>
                 <div className="flex flex-col items-center">
                     <img
@@ -61,19 +61,19 @@ const Catalog = () => {
                         alt="sanetizer"
                     />
                     <p className="font-bold text-md text-xl">DOMS</p>
-                    <h4 className="font-bold text-md"> 210 pages</h4>
+                    <h4 className="font-bold text-md"> 368 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️⭐️⭐️</p>
-                    <p className="font-bold text-md">Rs. 45.00</p>
+                    <p className="font-bold text-md">Rs. 50.00</p>
                 </div>
 
                 <div className="flex flex-col items-center">
                     <img className="mb-4 w-48 h-64" src={sansar} alt="oil" />
                     <p className="font-bold text-md text-xl">Sansar</p>
-                    <h4 className="font-bold text-md">400 pages</h4>
+                    <h4 className="font-bold text-md">430 pages</h4>
                     <p className="text-2xl ">⭐️⭐️⭐️</p>
                     <div>
-                        <span className="line-through text-md">Rs. 60.00</span>{" "}
-                        <span className="font-bold text-md">Rs. 58.00</span>
+                        <span className="line-through text-md">Rs. 65.00</span>{" "}
+                        <span className="font-bold text-md">Rs. 60.00</span>
                     </div>
                 </div>
             </div>
