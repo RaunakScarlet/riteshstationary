@@ -9,6 +9,13 @@ const About = () => {
                         <h1 className="text-6xl md:text-7xl font-bold text-gray-600">
                             About Us
                         </h1>
+                        <div className="text-center mb-10">
+                            <span className="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                            <span className="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                            <span className="inline-block w-40 h-1 rounded-full bg-indigo-500"></span>
+                            <span className="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                            <span className="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
+                        </div>
                     </div>
                     <img
                         src={rk}
